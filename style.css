@@ -1,0 +1,44 @@
+body{
+    background-color: darkblue;
+}
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+    background-color: darkblue;
+}
+#start{
+    border-radius: 50px;
+    border-width: 4;
+    border-color: darkred;
+    background-color: red;
+    width: 50px;
+    height: 50px;
+}
+h1{
+    color: orangered;
+    font-weight: bold;
+}
+label{
+    color: white;
+}
+h3{
+    color: white;
+}
+p{
+    color:white;
+}
